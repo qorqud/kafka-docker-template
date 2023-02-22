@@ -1,2 +1,2 @@
-FROM wordpress
+FROM bitnami/kafka
 EXPOSE 80
