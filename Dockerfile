@@ -1,2 +1,2 @@
 FROM bitnami/kafka
-EXPOSE 80
+EXPOSE 9092
